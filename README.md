@@ -23,3 +23,6 @@ Improve financial distress (edf) prediction based on risk factors in 10-K filing
 - Prediction Modeling
 
 
+##   
+
+#### Note: If you have trouble viewing my jupyter notebook scripts here, this is due to the render bug on github. You can copy and paste the URL from Github to http://nbviewer.jupyter.org/ to check on the code.
